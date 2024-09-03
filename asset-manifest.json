@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rahasya/static/css/main.aaa43585.css",
+    "main.js": "/rahasya/static/js/main.2d0b8ce9.js",
+    "index.html": "/rahasya/index.html",
+    "main.aaa43585.css.map": "/rahasya/static/css/main.aaa43585.css.map",
+    "main.2d0b8ce9.js.map": "/rahasya/static/js/main.2d0b8ce9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aaa43585.css",
+    "static/js/main.2d0b8ce9.js"
+  ]
+}
